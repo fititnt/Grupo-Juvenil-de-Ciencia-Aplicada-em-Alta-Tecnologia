@@ -1,5 +1,10 @@
 ## Grupo Juvenil de Ciência Aplicada em Alta Tecnologia
 
+- [Facebook: Coleção 'Grupo Juvenil de Ciência Aplicada em Alta Tecnologia'](https://www.facebook.com/fititnt/media_set?set=a.1524899977561478.1073741849.100001244705769&type=3&feed=true)
+- (relacionado indireto)[Facebook: Coleção 'Material sobre Ética em Inteligência Artificial'](https://www.facebook.com/fititnt/media_set?set=a.1537961042922038.1073741851.100001244705769&type=3&feed=true)
+
+----
+
 https://www.facebook.com/fititnt/posts/1513987711986038
 
 Quem tem filhos* de 12-18 anos, trocariam horas de trabalho pela de outros darem aula particular? #MetodoCientifico, #IoT, programação
