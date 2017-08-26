@@ -1,11 +1,11 @@
 ## Grupo Juvenil de Ciência Aplicada em Alta Tecnologia
 
 - [Facebook: Coleção 'Grupo Juvenil de Ciência Aplicada em Alta Tecnologia'](https://www.facebook.com/fititnt/media_set?set=a.1524899977561478.1073741849.100001244705769&type=3&feed=true)
-- (relacionado indireto)[Facebook: Coleção 'Material sobre Ética em Inteligência Artificial'](https://www.facebook.com/fititnt/media_set?set=a.1537961042922038.1073741851.100001244705769&type=3&feed=true)
+- (relacionado indireto) [Facebook: Coleção 'Material sobre Ética em Inteligência Artificial'](https://www.facebook.com/fititnt/media_set?set=a.1537961042922038.1073741851.100001244705769&type=3&feed=true)
 
 ----
 
-https://www.facebook.com/fititnt/posts/1513987711986038
+[Proposta inicial do 'Grupo Juvenil de Ciência Aplicada em Alta Tecnologia'](https://www.facebook.com/fititnt/posts/1513987711986038):
 
 Quem tem filhos* de 12-18 anos, trocariam horas de trabalho pela de outros darem aula particular? #MetodoCientifico, #IoT, programação
 
@@ -53,3 +53,20 @@ Em breve devo explicar com um pouco mais de detalhes o que falei aqui. Desde já
 A questão da idade talvez dá para reduzir mais, desde que idealmente um adulto (ou irmão mais velho) acompanhe. Aliás, o ideal seria que os adolescentes fossem induzidos a interagir entre si, até porque ensinar algo que aprendeu recentemente é uma forma poderosa de memorização, mesmo que algo ensinado tenha que ser 'corrigido' mais tarde.
 
 Algo que é importante é a questão de ter internet (ainda que isso possa ser resolvido com ajuda) capaz de suportar uma ligação por videoconferência.
+
+
+----
+
+## Atualização em 2017-08-26
+
+Também por fazer sentido (isto é, é um ganho de eficiência e de tempo), esse
+projeto continua em aberto, porém antes darei prioridade a projetos que de certa
+forma são uma consequência desse: **a necessidade de automatizar a gestão
+de pessoas e do próprio nível de evolução de aprendizagem**.
+
+Isso se faz necessário porque, no conceito inicial, para não envolver requisito
+de pagamento, as pessoas responspaveis por acompanhar os alunos deveriam ter
+mais mecanismos de apoio.
+
+Dentro os repositórios com parte de consequência disto e que estão públicos,
+veja a [organização Etica.AI](https://github.com/EticaAI).
